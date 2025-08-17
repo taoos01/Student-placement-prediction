@@ -1,2 +1,2 @@
 # Student-placement-prediction
-A simple placement prediction web app
+Student Placement Prediction is a machine learning project that predicts whether a student will be placed in a company based on academic performance, skill sets, and other factors. It involves data preprocessing, exploratory analysis, model training with classification algorithms, evaluation using accuracy and classification reports, and deployment through a Streamlit web app for real-time predictions.
